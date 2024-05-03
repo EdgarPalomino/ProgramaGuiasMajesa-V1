@@ -1,0 +1,37 @@
+-------------
+
+Articulos y Colores
+
+Jersey Algodon 20/1:
+Jersey Algodon 24/1:
+Jersey Algodon 30/1 0.80:
+Jersey Algodon 30/1 0.90:
+Seleccionar, Acero, Agua Marina, Amarillo Brasil, Amarillo Neon, Amarillo Oro, Antique, Arena, Azul Cielo, Azul Italiano, Azul Marino, Azulino, Barney, Blanco, Camello, Camote, Carton, Celeste, Celeste Cristal, Chicle, Concho de Vino, Coral, Coral Neon, Crema, Fresa, Fucsia, Lacre, Lila, Maiz, Mandarina, Maron, Melange 1%, Melange 3%, Melange 10%, Melon, Menta, Mentol, Mostaza, Naranja, Naranja Neon, Negro, Palo Rosa, Plomo Colegial, Plomo Plata, Pizarra, Rojo, Rosado, Turqueza Bebe, Turqueza Claro, Turqueza Oscuro, Vainilla, Verde Agua, Verde Botella, Verde Cemento, Verde Cobalto, Verde Esmeralda, Verde Jade, Verde Limon, Verde Manzana, Verde Manzanilla, Verde Menta, Verde Militar, Verde Neon, Verde Palta, Verde Perico, Zanahoria
+
+Jersey Jaspeado 30/1 0.80:
+Jersey Jaspeado 30/1 0.90:
+Seleccionar, Acero, Antique, Apache, Arena, Azul Marino, Azulino, Beige, Borgoña, Camello, Celeston, Chicle, Cocoa, Concho de Vino, Coral, Cremoso, Cristal, Fucsia, Humo, Jean, Melon, Morado, Mostaza, Naranja, Negro, Palo Rosa, Plomo Colegial, Plomo Plata, Rojo, Rosa Celeste, Rosado, Turqueza Bebe, Turqueza Oscuro, Turqueza Polo, Uva, Verde Agua, Verde Botella, Verde Cobalto, Verde Hoja, Verde Jade, Verde Menta, Verde Militar, Verde Monina, Verde Nilo, Violeta, Violeta Bebe
+
+Gamuza Algodon 30/1:
+Gamuza Algodon 50/1:
+Seleccionar, Acero, Agua Marina, Amarillo Brasil, Azul Marino, Azulino, Blanco, Camote, Celeste, Chicle, Concho de Vino, Coral, Cristal, Fucsia, Lila, Maiz, Mandarina, Marron, Melange 1%, Melange 3%, Melange 10%, Naranja, Negro, Palo Rosa, Rojo, Rosado, Turqueza Bebe, Turqueza Claro, Turqueza Oscuro, Vainilla, Verde Jade, Verde Manzana, Verde Militar, Verde Cobalto
+
+Gamuza Jaspeado 30/1:
+Seleccionar, Acero, Azul Marino, Azulino, Concho de Vino, Melange 1%, Melange 3%, Melange 10%, Negro Rata, Rojo, Verde Militar
+
+Hidrosedal:
+Seleccionar, Acero, Amarillo Brasil, Azul Marino, Azulino, Barney, Blanco, Blanco Optico, Chicle, Coral, Fucsia, Guinda, Lila, Marron, Melange 1%, Melange 3%, Melange 10%, Melon, Morado, Mostaza, Negro, Rojo, Topo, Turqueza, Verde Agua, Verde Cobalto, Verde Jade
+
+Spum:
+Seleccionar, Blanco
+
+Viscosa:
+Seleccionar, Acero, Azul Marino, Azulino, Blanco Optico, Concho de Vino, Chicle, Coral, Fucsia, Melon, Negro, Plomo Plata, Rojo, Topo, Verde Agua, Verde Cobalto, Verde Jade, Verde Militar
+
+Rib Algodon:
+Seleccionar, Blanco, Claros, Melange, Oscuros, Mas Colores, Acero, Agua Marina, Amarillo Brasil, Amarillo Oro, Antique, Arena, Azul Marino, Azulino, Blanco, Camote, Celeste, Chicle, Concho de Vino, Coral, Crema, Cristal, Fucsia, Lila, Maiz, Mandarina, Melange 1%, Melange 3%, Melange 10%, Mostaza, Naranja, Negro, Palo Rosa, Rojo, Rosado, Turqueza Claro, Turqueza Oscuro, Turqueza Bebe, Vainilla, Verde Agua, Verde Cobalto, Verde Jade, Verde Limon, Verde Manzana, Verde Manzanilla, Verde Militar, Verde Perico
+
+Rib Jaspeado:
+Seleccionar, Jaspeado, Mas Colores, Antique, Apache, Azulino, Azul Marino, Azul Acero, Borgoña, Cristal, Cremoso, Celeston, Concho de Vino, Coral, Cocoa, Humo, Jean, Morado, Negro, Plomo Colegial, Rojo, Turqueza Oscuro, Verde Cobalto, Verde Menta, Verde Militar, Verde Botella
+
+-------------

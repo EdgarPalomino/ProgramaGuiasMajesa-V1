@@ -1,0 +1,23 @@
+package com.majesa.componentes;
+
+import javax.swing.*;
+import java.awt.*;
+
+public class Alerta extends JLabel {
+
+    // Constructor para cada cuadro de alerta
+
+    public Alerta(String texto, int x, int y) {
+
+        this.setText(texto);
+        this.setBounds(x, y, 165, 105);
+        this.setHorizontalAlignment(SwingConstants.CENTER);
+        this.setVerticalAlignment(SwingConstants.CENTER);
+        this.setFont(new Font("Tahoma", Font.PLAIN, 13));
+        this.setBorder(BorderFactory.createLineBorder(Color.LIGHT_GRAY));
+        this.setBackground(Color.WHITE);
+        this.setOpaque(true);
+
+    }
+
+}

@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProgramaGuiasMajesa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgramaGuiasMajesa_jar</output-path>
+    <root id="archive" name="ProgramaGuiasMajesa.jar">
+      <element id="module-output" name="ProgramaGuiasMajesa" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/sign-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/forms-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/barcodes-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/pdftest-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/io-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/layout-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/pdfa-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/kernel-7.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/fontbox-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/slf4j-simple-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Library PDFs/pdfbox-2.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
